@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[floating-between-ideas]]></title>
         <description><![CDATA[floating-between-ideas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/floating-between-ideas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 00:40:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 00:45:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/floating-between-ideas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dd315f1-1b9b-4467-aa21-3843c31fedd6.jpg">]]></description>
-            <link>undefinedthe-only-people-for-me-are-the-mad-ones-the-ones-who-are-ma/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/679984442e2f90b13653c76549e1392de90e6826.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/floating-between-ideas/the-only-people-for-me-are-the-mad-ones-the-ones-who-are-ma/index.html</link>
             <guid isPermaLink="false">accaafa1-3bb8-480b-a06b-645d5e84f693</guid>
-            <pubDate>Thu, 19 May 2016 00:40:10 GMT</pubDate>
+            <pubDate>Thu, 19 May 2016 00:45:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
