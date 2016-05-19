@@ -1,0 +1,28 @@
+name: floating-between-ideas
+favicon: null
+layout_spectrum: 0.402993913507089
+typography_spectrum: 0.8808202249929309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.18004900263622403
+  lightness: 0.33563187904655933
+  saturation: 0.22523234062828124
+  rhythmicContrast: 0.8040147561114281
+purpose: []
